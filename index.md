@@ -44,4 +44,8 @@ author:
     - <a href="https://pldi24.sigplan.org/track/pldi-2024-pldi-research-artifacts">PLDI'24</a>, 
       <a href="https://conf.researchr.org/home/sas-2023">SAS'23</a>, 
       <a href="https://2023.ecoop.org/">ECOOP'23</a>, 
-      <a href="https://2022.splashcon.org/home/sas-2
+      <a href="https://2022.splashcon.org/home/sas-2022#Home">SAS'22</a>, 
+      <a href="https://conferences.ncl.ac.uk/formats2022/">FORMATS'22</a>
+    - Reviewer for <a href="https://www.springer.com/journal/11227">The Journal of Supercomputing</a>
+---
+
