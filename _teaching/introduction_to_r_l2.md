@@ -1,6 +1,9 @@
 ---
 title: "Introduction to R"
+collection: teaching
+type: "Course"
 level: "L2 Mathématiques"
-institution: "UPVD / ISAE-SUPAERO"
+institution: "UPVD"
 year_range: "2018-2023"
 ---
+
