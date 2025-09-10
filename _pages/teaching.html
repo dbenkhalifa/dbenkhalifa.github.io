@@ -8,10 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign grouped = site.teaching | group_by: "institution" %}
-{% for group in grouped %}
-  <h2>{{ group.name }}</h2>
-  {% for post in group.items %}
-    {% include archive-single.html %}
-  {% endfor %}
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
 {% endfor %}
