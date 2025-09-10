@@ -9,17 +9,17 @@ author_profile: true
 
 ## PhD Students
 
-- **Faysal ELOUCHDI** – ENAC, Université de Perpignan et Université de Tlemcen (Algérie) (Mars 2025–present)
+- **Faysal ELOUCHDI** – ENAC, University of Perpignan et University de Tlemcen (Algeria) (Mars 2025–present)
 - **Julien BORTOLUSSI** – with Pierre-Loic Garoche, ENAC (Octobre 2024–present)
 
 ---
 
 ## Master Students & Trainees
 
-- **Hugo SUTRA** – Élève-ingénieur apprenti, Collins Aerospace, Toulouse (Septembre 2024–2027)
-- **Killian MALLEGOL** – Élève-ingénieur apprenti, Thales AVS, Toulouse (Septembre 2024–2026)
+- **Hugo SUTRA** – ENAC student apprentice at Collins Aerospace, Toulouse (2024–2027)
+- **Killian MALLEGOL** – ENAC student apprentice at Thales AVS, Toulouse (2024–2026)
 - **Pradeep KRISHNAMURTHY-VIJAYALAKHMI** – Master 1 ISAE SUPAERO (June 2025–September 2025)
 - **Meet VACHHANI** – Master 1 ISAE SUPAERO (June 2024–August 2024)
 - **Mohsin JALEEL** – Master 2 IATSED (Airbus) (Février–Avril 2024)
-- **Sofiane Bessai** – Stage M2 Calcul Haute Performance et Simulation (Février–Juin 2022)
-- **Kahina FELLAH** – Stage M1 Calcul Haute Performance et Simulation (Avril–Juin 2019)
+- **Sofiane Bessai** – M2 High-Performance Computing & Simulation Internship (February–June 2022)
+- **Kahina FELLAH** – M1 High-Performance Computing & Simulation Internship (April–June 2019)
