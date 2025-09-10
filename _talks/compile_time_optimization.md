@@ -1,5 +1,9 @@
 ---
 title: "Compile-Time Optimization of the Energy Consumption of Numerical Computations"
-conference: "CF'24"
-date: "May 2024"
+collection: talks
+type: "Talk"
+permalink: /talks/compile_time_optimization.md
+venue: "ACM International Conference on Computing Frontiers (CF 2024)"
+date: 2024-05-07
+location: "Ischia, Italy"
 ---
