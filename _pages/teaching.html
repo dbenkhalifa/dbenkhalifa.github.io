@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "Teaching"
@@ -8,6 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign grouped = site.teaching | group_by:"institution" %}
+
+{% for group in grouped %}
+  <h2>{{ group.name }}</h2>
+  <ul>
+    {% for post in group.items %}
+      <li>
+        <strong>{{ post.title }}</strong> – {{ post.level }} ({{ post.year_range }})
+      </li>
+    {% endfor %}
+  </ul>
 {% endfor %}
