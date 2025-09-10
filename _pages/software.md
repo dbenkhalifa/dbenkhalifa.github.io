@@ -5,21 +5,31 @@ permalink: /software/
 author_profile: true
 ---
 
-## Candy (2022)
-**Description:** A C++ library for dynamic floating-point cancellation detection.  
+## POPiNN (2024)
 **Type:** Project  
+**Description:** A fixed-point program synthesis tool for neural networks.  
+**Tags:** Fixed-Point, Neural Networks  
+
+---
+
+## POPiX (2023)
+**Type:** Project  
+**Description:** A fixed-point program synthesis tool based on static analysis.  
+**Links:**  
+- [Version 1](https://github.com/sofiane-bessai/POPIX)  
+- [Version 2](https://github.com/dbenkhal/POPiX)  
+**Tags:** Fixed-Point, Neural Networks, Static Analysis  
+
+---
+
+## Candy (2022)
+**Type:** Project  
+**Description:** A C++ library for dynamic floating-point cancellation detection.  
 **Tags:** C++, Floating-Point, Cancellation detection
 
 ---
 
 ## POP (2019)
+**Type:** Project  
 **Description:** A static tool for floating-point precision tuning.  
-**Type:** Project  
-**Tags:**  Floating-Point, Static analysis, SMT solver
-
----
-
-## POPiNN (2022)
-**Description:** A fixed-point program synthesis tool for neural networks.  
-**Type:** Project  
-**Tags:** Fixed-Point, Neural Networks, Quantization
+**Tags:**  Floating-Point, precision tuning  
