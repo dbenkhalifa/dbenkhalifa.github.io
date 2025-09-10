@@ -3,7 +3,6 @@ title: "POP: A Tuning Assistant for Mixed-Precision Floating-Point Computations"
 collection: publications
 category: manuscripts
 permalink: /publication/2019-POPATuningAssistantforMi
-excerpt: "This paper presents POP, a tuning assistant for mixed-precision floating-point computations in safety-critical systems."
 date: 2019-11-09
 venue: "Formal Techniques for Safety-Critical Systems - 7th International Workshop (FTSCS 2019), Shenzhen, China"
 slidesurl: ""  # ajouter le lien si disponible
