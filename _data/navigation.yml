@@ -13,16 +13,13 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
-  - title: "Software"
-    url: /software/
-        
   - title: "People"
     url: /people/
-    
+  - title: "Teaching"
+    url: /teaching/    
+  - title: "Software"
+    url: /software/
   - title: "Contact"
     url: /contact/
     
