@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: ""
 layout: archive
 permalink: /
 author_profile: true
