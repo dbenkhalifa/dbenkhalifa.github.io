@@ -12,24 +12,29 @@ I am an Associate Professor at ENAC, the French National School of Civil Aviatio
 
   <!-- Research Interests -->
   <div style="flex:1; min-width:300px;">
-    ## Research Interests
-    - Static Program Analysis
-    - Programming Languages
-    - Computer Arithmetic
-    - Embedded AI
-    - Code Optimization
-    - Code Synthesis
+    <h2 style="margin-bottom:10px;">Research Interests</h2>
+    <ul style="margin-top:0;">
+      <li>Static Program Analysis</li>
+      <li>Programming Languages</li>
+      <li>Computer Arithmetic</li>
+      <li>Embedded AI</li>
+      <li>Code Optimization</li>
+      <li>Code Synthesis</li>
+    </ul>
   </div>
 
   <!-- Education -->
   <div style="flex:1; min-width:300px;">
-    ## Education
-    - PhD in Computer Science, 2021 — University of Perpignan, France  
-    - MSc in Computer Science, 2018 — University of Perpignan (France) & University of Sousse (Tunisia)  
-    - BSc in Computer Science, 2016 — University of Sousse, Tunisia
+    <h2 style="margin-bottom:10px;">Education</h2>
+    <ul style="margin-top:0;">
+      <li>PhD in Computer Science, 2021 — University of Perpignan, France</li>
+      <li>MSc in Computer Science, 2018 — University of Perpignan (France) & University of Sousse (Tunisia)</li>
+      <li>BSc in Computer Science, 2016 — University of Sousse, Tunisia</li>
+    </ul>
   </div>
 
 </div>
+
 
 
 ## Academic Service
