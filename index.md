@@ -8,7 +8,7 @@ author: "Dorra Ben Khalifa"
 
 author:
   name: "Dorra Ben Khalifa"
-  image: "dorra.jpg"
+  image: "/images/dorra.jpg"
   bio: "I'm an associate professor at ENAC, the French National School of Civil Aviation and a member of the Interactive Informatics Team of ENAC Research Lab. Before joining ENAC, I completed a postdoctoral fellowship at Perpignan University, where I continued my research on fixed-point code synthesis for neural networks. I defended my thesis Fast and Efficient Bit-level Precision Tuning in 2021 under the supervision of Matthieu Martel and Assalé Adjé."
   interests:
     - Static Program Analysis
@@ -25,3 +25,17 @@ author:
     - degree: "BSc in Computer Science, 2016"
       institution: "University of Sousse, Tunisia"
 ---
+
+## Ma Présentation
+
+Voici le contenu de ma présentation :
+
+- **Titre :** Analyse statique et optimisation de code
+- **Événement :** Conférence ENAC Research Lab, 2025
+- **Lieu :** Toulouse, France
+- **Résumé :** Cette présentation porte sur les techniques avancées de synthèse de code et d'optimisation pour l'intelligence artificielle embarquée.
+
+## Contact
+
+Pour me contacter : [Envoyer un e-mail](mailto:ton.email@exemple.com)
+
