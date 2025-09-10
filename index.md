@@ -13,19 +13,29 @@ author:
   website: "https://your-personal-website.com"
   email: "dorra.ben-khalifa@enac.fr"
 ---
+<div style="display:flex; flex-wrap:wrap; gap:40px;">
 
-## Research Interests
-- Static Program Analysis
-- Programming Languages
-- Computer Arithmetic
-- Embedded AI
-- Code Optimization
-- Code Synthesis
+  <!-- Research Interests -->
+  <div style="flex:1; min-width:300px;">
+    ## Research Interests
+    - Static Program Analysis
+    - Programming Languages
+    - Computer Arithmetic
+    - Embedded AI
+    - Code Optimization
+    - Code Synthesis
+  </div>
 
-## Education
-- PhD in Computer Science, 2021 — University of Perpignan, France  
-- MSc in Computer Science, 2018 — University of Perpignan (France) & University of Sousse (Tunisia)  
-- BSc in Computer Science, 2016 — University of Sousse, Tunisia
+  <!-- Education -->
+  <div style="flex:1; min-width:300px;">
+    ## Education
+    - PhD in Computer Science, 2021 — University of Perpignan, France  
+    - MSc in Computer Science, 2018 — University of Perpignan (France) & University of Sousse (Tunisia)  
+    - BSc in Computer Science, 2016 — University of Sousse, Tunisia
+  </div>
+
+</div>
+
 
 ## Academic Service
 - [CAV 25](https://conferences.i-cav.org/2025/), [OOPSLA'24](https://2024.splashcon.org/track/OOPSLA), [OOPSLA'25](https://2025.splashcon.org/track/OOPSLA), [VSS'25](https://vsl.cis.udel.edu/vss2025/), [CoDIT 2025](https://codit2025.org/) — Program Committee  
