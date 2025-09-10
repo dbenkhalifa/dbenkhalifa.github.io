@@ -6,7 +6,6 @@ permalink: /publication/2019-PrecisionTuningandInternet
 date: 2019-12-20
 venue: "International Conference on Internet of Things, Embedded Systems and Communications (IINTEC 2019), Tunis, Tunisia"
 paperurl: "https://doi.org/10.1109/IINTEC48298.2019.9112133"
-citation: "Dorra Ben Khalifa, Matthieu Martel. (2019). 'Precision Tuning and Internet of Things.' <i>IINTEC 2019</i>."
 authors:
   - "Dorra Ben Khalifa"
   - "Matthieu Martel"
