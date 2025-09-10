@@ -7,7 +7,7 @@ show_sidebar: true
 
 author:
   name: "Dorra Ben Khalifa"
-  image: "/images/dorra.jpg"
+  image: "dorra.jpg"
   bio: "I am an Associate Professor at ENAC, the French National School of Civil Aviation and a member of the Interactive Informatics Team at ENAC Research Lab. Before joining ENAC, I completed a postdoctoral fellowship at Perpignan University focusing on fixed-point code synthesis for neural networks. I defended my PhD thesis 'Fast and Efficient Bit-level Precision Tuning' in 2021 under the supervision of Matthieu Martel and Assalé Adjé."
   location: "ENAC, Toulouse, France"
   website: "https://your-personal-website.com"
