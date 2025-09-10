@@ -7,14 +7,18 @@ show_sidebar: true     # <-- ensures it is shown
 ---
 
 
-## Contact Me
-
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
   <!-- ENAC Email -->
   <div style="flex:1; min-width:250px; padding:15px; border:1px solid #ddd; border-radius:8px;">
     <h3>ENAC Email</h3>
     <p><a href="mailto:dorra.ben-khalifa@enac.fr">dorra.ben-khalifa@enac.fr</a></p>
+  </div>
+
+  <!-- Office -->
+  <div style="flex:1; min-width:250px; padding:15px; border:1px solid #ddd; border-radius:8px;">
+    <h3>Office</h3>
+    <p>C103, Building C, First Floor</p>
   </div>
 
 </div>
