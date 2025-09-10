@@ -18,7 +18,7 @@ show_sidebar: true     # <-- ensures it is shown
   <!-- Office -->
   <div style="flex:1; min-width:250px; padding:15px; border:1px solid #ddd; border-radius:8px;">
     <h3>Office</h3>
-    <p>C103, Building C, First Floor</p>
+    <p>C103, Building Caudron, First Floor</p>
   </div>
 
 </div>
