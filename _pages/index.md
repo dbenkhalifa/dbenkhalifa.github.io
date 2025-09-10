@@ -1,10 +1,11 @@
 ---
 title: "Home"
-layout: home
+layout: archive
 permalink: /
 author_profile: true
 show_sidebar: true
 ---
+
 
 I am an Associate Professor at ENAC, the French National School of Civil Aviation and a member of the Interactive Informatics Team at ENAC Research Lab. Before joining ENAC, I completed a postdoctoral fellowship at Perpignan University focusing on fixed-point code synthesis for neural networks. I defended my PhD thesis 'Fast and Efficient Bit-level Precision Tuning' in 2021 under the supervision of Matthieu Martel and Assalé Adjé."
  
