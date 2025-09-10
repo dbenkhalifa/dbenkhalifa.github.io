@@ -1,7 +1,7 @@
 ---
 title: "Precision Tuning and Internet of Things"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2019-PrecisionTuningandInternet
 date: 2019-12-20
 venue: "International Conference on Internet of Things, Embedded Systems and Communications (IINTEC 2019), Tunis, Tunisia"
