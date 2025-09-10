@@ -276,6 +276,50 @@ defaults:
       author_profile: true
       share: true
       comments: true
+   # _software
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+    # _people
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+    # _contact
+  - scope:
+      path: ""
+      type: contact
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _portfolio
   - scope:
       path: ""
