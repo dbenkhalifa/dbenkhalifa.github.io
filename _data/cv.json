@@ -1,40 +1,49 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Dorra Ben Khalifa",
+    "email": "dorra.ben-khalifa@enac.fr",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://dbenkhalifa.github.io",
+    "summary": "Associate Professor",
     "location": {
-      "address": "",
+      "address": "ENAC",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Toulouse",
+      "countryCode": "FR",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=4M9L11AAAAAJ&hl=fr"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-0595-5231"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/dbenkhalifa"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Perpignan",
+      "area": "Ph.D in Computer Science",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2021",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Perpignan",
+      "area": "M.S. in Computer Science",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
@@ -42,26 +51,17 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Sousse (Tunisia)",
+      "area": "B.S. in Computer Science ",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2016",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": [Arabic, French, English, Spanish],
   "interests": [],
   "references": [],
   "publications": [
