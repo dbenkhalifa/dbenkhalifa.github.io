@@ -28,9 +28,9 @@ I am an Associate Professor at ENAC, the French National School of Civil Aviatio
 <div style="flex:1; min-width:300px;">
   <h2 style="margin-bottom:10px;">Education</h2>
   <ul style="margin-top:0; list-style:none; padding-left:0;">
-    <li>🎓 <strong>PhD in Computer Science, 2021</strong> — University of Perpignan, France</li>
-    <li>🎓 <strong>MSc in Computer Science, 2018</strong> — University of Perpignan (France) & University of Sousse (Tunisia)</li>
-    <li>🎓 <strong>BSc in Computer Science, 2016</strong> — University of Sousse, Tunisia</li>
+    <li>🎓  <strong>PhD in Computer Science, 2021</strong> — University of Perpignan, France</li>
+    <li>🎓  <strong>MSc in Computer Science, 2018</strong> — University of Perpignan (France) & University of Sousse (Tunisia)</li>
+    <li>🎓  <strong>BSc in Computer Science, 2016</strong> — University of Sousse, Tunisia</li>
   </ul>
 </div>
 
@@ -39,7 +39,7 @@ I am an Associate Professor at ENAC, the French National School of Civil Aviatio
 
 ## News
 
-📢 **October 9, 2025**   Invited speaker at the Department of Informatics, Universitas Diponegoro.  Talk: *"Applying Precision Tuning in HPC using Formal Methods"*
+📢  **October 9, 2025**   Invited speaker at the Department of Informatics, Universitas Diponegoro.  Talk: *"Applying Precision Tuning in HPC using Formal Methods"*
 
 
 
