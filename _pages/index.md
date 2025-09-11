@@ -37,6 +37,12 @@ I am an Associate Professor at ENAC, the French National School of Civil Aviatio
 </div>
 
 
+## News
+
+- **October 9, 2025** — I will be an invited speaker at the Department of Informatics, Universitas Diponegoro, to give a talk on *"
+Precision Tuning in HPC using Formal Methods"*.
+
+
 
 ## Academic Service
 - [CAV 25](https://conferences.i-cav.org/2025/), [OOPSLA'24](https://2024.splashcon.org/track/OOPSLA), [OOPSLA'25](https://2025.splashcon.org/track/OOPSLA), [VSS'25](https://vsl.cis.udel.edu/vss2025/), [CoDIT 2025](https://codit2025.org/) — Program Committee  
