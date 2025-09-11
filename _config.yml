@@ -30,7 +30,8 @@ author:
   employer         : "ENAC"
   uri              : # URL
   email            : "dorra.ben-khalifa@enac.fr" 
-
+  sitemap:
+    enabled: false
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=4M9L11AAAAAJ&hl=fr"
   orcid            : "https://orcid.org/0000-0002-0595-5231"
