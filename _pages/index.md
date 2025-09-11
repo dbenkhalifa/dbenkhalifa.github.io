@@ -24,15 +24,15 @@ I am an Associate Professor at ENAC, the French National School of Civil Aviatio
     </ul>
   </div>
 
-  <!-- Education -->
-  <div style="flex:1; min-width:300px;">
-    <h2 style="margin-bottom:10px;">Education</h2>
-    <ul style="margin-top:0;">
-      <li>PhD in Computer Science, 2021 — University of Perpignan, France</li>
-      <li>MSc in Computer Science, 2018 — University of Perpignan (France) & University of Sousse (Tunisia)</li>
-      <li>BSc in Computer Science, 2016 — University of Sousse, Tunisia</li>
-    </ul>
-  </div>
+<!-- Education -->
+<div style="flex:1; min-width:300px;">
+  <h2 style="margin-bottom:10px;">Education</h2>
+  <ul style="margin-top:0; list-style:none; padding-left:0;">
+    <li>🎓 <strong>PhD in Computer Science, 2021</strong> — University of Perpignan, France</li>
+    <li>🎓 <strong>MSc in Computer Science, 2018</strong> — University of Perpignan (France) & University of Sousse (Tunisia)</li>
+    <li>🎓 <strong>BSc in Computer Science, 2016</strong> — University of Sousse, Tunisia</li>
+  </ul>
+</div>
 
 </div>
 
