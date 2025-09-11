@@ -10,7 +10,8 @@ show_sidebar: true
 I am an Associate Professor at ENAC, the French National School of Civil Aviation, and a member of the Interactive Informatics Team at the ENAC Research Lab. Before joining ENAC, I completed a postdoctoral fellowship at the University of Perpignan, where I focused on fixed-point code synthesis for neural networks. I defended my PhD thesis, [*Fast and Efficient Bit-level Precision Tuning* (2021)](https://theses.hal.science/tel-03509266), at the University of Perpignan in 2021.
 
 
-<div style="text-align:center; font-size:1.5em; font-weight:bold; margin:30px 0; color:#2c3e50;">I am looking for motivated interns, PhD students, postdocs & collaborators. Contact me to get involved.</div>
+**I am looking for motivated interns, PhD students, postdocs & collaborators. [Contact me to get involved!](mailto:dorra.ben-khalifa@enac.fr)**
+
  
 <div style="display:flex; flex-wrap:wrap; gap:40px;">
 
