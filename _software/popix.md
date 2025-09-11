@@ -1,9 +1,18 @@
-
 ---
+
 title: "POPiX"
-type: "Project"
+
+
+collection: software
+
 description: "A fixed-point program synthesis tool based on static analysis."
+
 year: 2023
-[Link1](https://example.com) | [Link2](https://example2.com)
+
+tags: ["Fixed-Point", "Static Analysis", "Program Synthesis", "Tool"]
+
+link_version1: "https://github.com/sofiane-bessai/POPIX"
+
+link_version2: "https://github.com/dbenkhal/POPiX"
 
 ---
