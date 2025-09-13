@@ -33,7 +33,6 @@ author:
   sitemap:
     enabled: false
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=4M9L11AAAAAJ&hl=fr"
   orcid            : "https://orcid.org/0000-0002-0595-5231"
   researchgate     : "https://www.researchgate.net/profile/Dorra-Ben-Khalifa"
 
@@ -42,7 +41,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/dbenkhalifa"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
