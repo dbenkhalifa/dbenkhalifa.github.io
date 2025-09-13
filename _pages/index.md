@@ -49,7 +49,7 @@ I am an Associate Professor at ENAC, the French National School of Civil Aviatio
 
 
 ## Academic Service
-- [CAV 25](https://conferences.i-cav.org/2025/), [OOPSLA'25 (R1&R2](https://2025.splashcon.org/track/OOPSLA), [VSS'25](https://vsl.cis.udel.edu/vss2025/), [CoDIT 2025](https://codit2025.org/), [CoDIT'24](https://codit2024.com/index.php), [CoDIT'23](https://codit2023.com/) — Program Committee  
+- [CAV 25](https://conferences.i-cav.org/2025/), [OOPSLA'25 (R1&R2)](https://2025.splashcon.org/track/OOPSLA), [VSS'25](https://vsl.cis.udel.edu/vss2025/), [CoDIT 2025](https://codit2025.org/), [CoDIT'24](https://codit2024.com/index.php), [CoDIT'23](https://codit2023.com/) — Program Committee  
 - [PLDI'24](https://pldi24.sigplan.org/track/pldi-2024-pldi-research-artifacts), [SAS'23](https://conf.researchr.org/home/sas-2023), [ECOOP'23](https://2023.ecoop.org/), [SAS'22](https://2022.splashcon.org/home/sas-2022#Home), [FORMATS'22](https://conferences.ncl.ac.uk/formats2022/) — Artifact Evaluation Committee  
 - [PLDI'23 SRC](https://pldi23.sigplan.org/track/pldi-2023-src), [CoDIT'23](https://codit2023.com/), [The Journal of Supercomputing 2022](https://www.springer.com/journal/11227) — Reviewer  
 - [ECOOP'23](https://2023.ecoop.org/), [FORMATS'22](https://conferences.ncl.ac.uk/formats2022/) — External Review Committee
