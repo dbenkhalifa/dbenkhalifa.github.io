@@ -34,7 +34,8 @@ author:
     enabled: false
   # Academic websites
   orcid            : "https://orcid.org/0000-0002-0595-5231"
-  researchgate     : "https://www.researchgate.net/profile/Dorra-Ben-Khalifa"
+  googlescholar     : "https://scholar.google.com/citations?user=4M9L11AAAAAJ&hl=fr"
+  
 
 
   # Repositories and software development
