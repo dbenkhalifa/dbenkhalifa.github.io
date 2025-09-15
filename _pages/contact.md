@@ -9,7 +9,7 @@ show_sidebar: true     # <-- ensures it is shown
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-  <!-- ENAC Email -->
+  <!-- Email -->
   <div style="flex:1; min-width:250px; padding:15px; border:1px solid #ddd; border-radius:8px;">
     <h3>ENAC Email</h3>
     <p><a href="mailto:dorra.ben-khalifa@enac.fr">dorra.ben-khalifa@enac.fr</a></p>
