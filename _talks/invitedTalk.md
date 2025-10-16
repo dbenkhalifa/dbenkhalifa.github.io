@@ -1,3 +1,4 @@
+---
 title: "Formal Methods for Frugal Computing in Numerical Software"
 collection: talks
 type: "Talk"
