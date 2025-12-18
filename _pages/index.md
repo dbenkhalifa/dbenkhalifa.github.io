@@ -44,15 +44,6 @@ My research interests lie at the intersection of formal methods and embedded sys
 
 
 
-## News
-📢 **December, 2025**  
-**Internship offer – Edge Spectrum**
-
-We offer a **Master-level internship** on Incremental Learning for Resource-Constrained
-Smart Sensors.  
- [Download the internship offer (PDF)](/files/Fiche_Stage_Edge_Spectrum –English.pdf)
-
-
 
 ## Academic Service
 - [CAV 25](https://conferences.i-cav.org/2025/), [OOPSLA'25 (R1&R2)](https://2025.splashcon.org/track/OOPSLA), [VSS'25](https://vsl.cis.udel.edu/vss2025/), [CoDIT 2025](https://codit2025.org/), [CoDIT'24](https://codit2024.com/index.php), [CoDIT'23](https://codit2023.com/) — Program Committee  
