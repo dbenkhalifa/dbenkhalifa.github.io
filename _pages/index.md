@@ -43,10 +43,14 @@ My research interests lie at the intersection of formal methods and embedded sys
 </div>
 
 
+
 ## News
+📢 **December, 2025**  
+**Internship offer – Edge Spectrum**
 
-📢  **October 9, 2025**   Invited speaker at the Department of Informatics, Universitas Diponegoro.  Talk: *"Applying Precision Tuning in HPC using Formal Methods"*
-
+We offer a **Master-level internship** on Incremental Learning for Resource-Constrained
+Smart Sensors.  
+ [Download the internship offer (PDF)](/assets/pdf/stage_edge_2026.pdf)
 
 
 
