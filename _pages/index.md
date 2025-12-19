@@ -50,7 +50,6 @@ My research interests lie at the intersection of formal methods and embedded sys
 
 We offer a **Master-level internship** on Incremental Learning for Resource-Constrained
 Smart Sensors.  
- [Download the internship offer (PDF)](/files/Fiche_Stage_Edge_Spectrum –English.pdf)
 
 
 
