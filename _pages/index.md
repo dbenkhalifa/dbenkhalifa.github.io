@@ -1,6 +1,6 @@
 ---
 title: ""
-layout: default
+layout: archive
 permalink: /
 author_profile: true
 show_sidebar: true
