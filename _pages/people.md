@@ -9,7 +9,7 @@ author_profile: true
 
 ## PhD Students
 
-- **Faysal ELOUCHDI** – ENAC, University of Perpignan et University de Tlemcen (Algeria) (Mars 2025–present)
+- **Faysal ELOUCHDI** – ENAC, University of Perpignan and University de Tlemcen (Algeria) (Mars 2025–present)
 - **Julien BORTOLUSSI** – with Pierre-Loic Garoche, ENAC (October 2024–present)
 
 ---
