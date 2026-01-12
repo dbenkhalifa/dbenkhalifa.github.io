@@ -11,7 +11,7 @@ I am an Associate Professor at ENAC, the French National School of Civil Aviatio
 
 My research interests lie at the intersection of formal methods and embedded systems. I explore FPGA code synthesis and the efficient implementation of floating-point and fixed-point arithmetic on hardware, alongside embedded AI and neural network optimization through precision tuning, quantization, pruning, and compression.
 
-
+**I am looking for motivated interns, PhD students, postdocs & collaborators. [Contact me to get involved!](mailto:dorra.ben-khalifa@enac.fr)**
 
  
 <div style="display:flex; flex-wrap:wrap; gap:40px;">
