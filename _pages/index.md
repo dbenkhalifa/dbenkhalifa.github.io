@@ -44,15 +44,12 @@ My research interests lie at the intersection of formal methods and embedded sys
 
 
 ## News
-📢 **December, 2025**  
-**[Internship offer – Edge Spectrum]**
-We offer a **Master-level internship** on Incremental Learning for Resource-Constrained
-Smart Sensors. [Download the internship offer (PDF)](/files/internshipEnglish.pdf) 
-
+📢 **February, 2026**  
+  I am on the program committee of [FDL 2026](https://www.fdl-conference.com/index.html)
 
 
 ## Academic Service
-- [CAV 25](https://conferences.i-cav.org/2025/), [OOPSLA'25 (R1&R2)](https://2025.splashcon.org/track/OOPSLA), [VSS'25](https://vsl.cis.udel.edu/vss2025/), [CoDIT 2025](https://codit2025.org/), [CoDIT'24](https://codit2024.com/index.php), [CoDIT'23](https://codit2023.com/) — Program Committee  
-- [PLDI'24](https://pldi24.sigplan.org/track/pldi-2024-pldi-research-artifacts), [SAS'23](https://conf.researchr.org/home/sas-2023), [ECOOP'23](https://2023.ecoop.org/), [SAS'22](https://2022.splashcon.org/home/sas-2022#Home), [FORMATS'22](https://conferences.ncl.ac.uk/formats2022/) — Artifact Evaluation Committee  
--  [TOSEM(2025)](https://dl.acm.org/journal/tosem), [PLDI'23 SRC](https://pldi23.sigplan.org/track/pldi-2023-src), [The Journal of Supercomputing 2022](https://www.springer.com/journal/11227) — Reviewer  
-- [ECOOP'23](https://2023.ecoop.org/), [FORMATS'22](https://conferences.ncl.ac.uk/formats2022/) — External Review Committee
+- [CAV 2025](https://conferences.i-cav.org/2025/), [OOPSLA 2025 (R1&R2)](https://2025.splashcon.org/track/OOPSLA), [VSS 2025](https://vsl.cis.udel.edu/vss2025/), [CoDIT 2025](https://codit2025.org/), [CoDIT 2024](https://codit2024.com/index.php), [CoDIT 2023](https://codit2023.com/) — Program Committee  
+- [PLDI 2024](https://pldi24.sigplan.org/track/pldi-2024-pldi-research-artifacts), [SAS 2023](https://conf.researchr.org/home/sas-2023), [ECOOP 2023](https://2023.ecoop.org/), [SAS 2022](https://2022.splashcon.org/home/sas-2022#Home), [FORMATS 2022](https://conferences.ncl.ac.uk/formats2022/) — Artifact Evaluation Committee  
+-  [TOSEM(2025)](https://dl.acm.org/journal/tosem), [PLDI 2023 SRC](https://pldi23.sigplan.org/track/pldi-2023-src), [The Journal of Supercomputing 2022](https://www.springer.com/journal/11227) — Reviewer  
+- [ECOOP 2023](https://2023.ecoop.org/), [FORMATS 2022](https://conferences.ncl.ac.uk/formats2022/) — External Review Committee
