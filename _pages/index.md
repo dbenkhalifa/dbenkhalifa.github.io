@@ -44,8 +44,7 @@ My research interests lie at the intersection of formal methods and embedded sys
 
 
 ## News
-📢 **February, 2026**  
-  I am on the program committee of [FDL 2026](https://www.fdl-conference.com/index.html)
+📢 **February, 2026**    I am on the program committee of [FDL 2026](https://www.fdl-conference.com/index.html)
 
 
 ## Academic Service
