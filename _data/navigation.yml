@@ -21,7 +21,7 @@ main:
   - title: "Software"
     url: /software/
   - title: "Contact"
-    url: /contact/
+    url: "#contact"
     
   # - title: "CV"
   #   url: /cv-json/
