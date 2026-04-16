@@ -42,7 +42,6 @@ My research interests lie at the intersection of formal methods and embedded sys
 
 ## News
 📢 Co-organizer of the [“Toulouse Embedded AI Challenge@ANITI”](https://embeddedaitoulouse.github.io/). <br/>
-
 📢 Co-organizer of the GT TONES (Working Group on Optimization and Verification for Critical Systems) within the [GDR SciLog](https://gdr-scilog.cnrs.fr/)
 
 ## Academic Service
