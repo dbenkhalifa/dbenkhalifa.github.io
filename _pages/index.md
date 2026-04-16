@@ -179,7 +179,7 @@ My research interests lie at the intersection of formal methods and embedded sys
   M2 HPC & Simulation Internship (Feb 2022 –Jun 2022)
 
 - **Kahina FELLAH**  
-  M1 HHPC & Simulation Internship (Apr 2022–Jun 2019)
+  M1 HPC & Simulation Internship (Apr 2022–Jun 2019)
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
