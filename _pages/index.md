@@ -95,9 +95,6 @@ My research interests lie at the intersection of formal methods and embedded sys
 {: #contact}
 
 
-<div style="display:flex; flex-wrap:wrap; gap:20px;">
-
-
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:20px;">
 
   <!-- Email -->
