@@ -41,3 +41,9 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+#site-nav a.active {
+  font-weight: 600;
+  color: #007bff;
+  border-bottom: 2px solid #007bff;
+}
