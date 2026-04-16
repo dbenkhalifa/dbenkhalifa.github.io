@@ -53,3 +53,45 @@ My research interests lie at the intersection of formal methods and embedded sys
 - [PLDI 2024](https://pldi24.sigplan.org/track/pldi-2024-pldi-research-artifacts), [SAS 2023](https://conf.researchr.org/home/sas-2023), [ECOOP 2023](https://2023.ecoop.org/), [SAS 2022](https://2022.splashcon.org/home/sas-2022#Home), [FORMATS 2022](https://conferences.ncl.ac.uk/formats2022/) — Artifact Evaluation Committee  
 -  [TOSEM(2025)](https://dl.acm.org/journal/tosem), [PLDI 2023 SRC](https://pldi23.sigplan.org/track/pldi-2023-src), [The Journal of Supercomputing 2022](https://www.springer.com/journal/11227) — Reviewer  
 - [ECOOP 2023](https://2023.ecoop.org/), [FORMATS 2022](https://conferences.ncl.ac.uk/formats2022/) — External Review Committee
+
+## People
+{: #people}
+## PhD Students
+
+- **Faysal ELOUCHDI**  
+  ENAC, University of Perpignan and University of Tlemcen (Algeria) (Mar 2025–present)
+
+- **Julien BORTOLUSSI**  
+  ENAC, with Pierre-Loïc Garoche (Oct 2024–present)
+
+---
+
+## Interns
+
+- **Léonard RIVALS**  
+  M2 Research Internship, University of Montpellier (Mar 2026 – Aug 2026)
+
+- **Hugo SUTRA**  
+  ENAC student apprentice at Collins Aerospace, Toulouse (2024–2027)
+
+- **Killian MALLEGOL**  
+  ENAC student apprentice at Thales AVS, Toulouse (2024–2026)
+
+---
+
+## Alumni
+
+- **Pradeep KRISHNAMURTHY-VIJAYALAKHMI**  
+  M1 ISAE SUPAERO (Jun 2025–Sep 2025)
+
+- **Meet VACHHANI**  
+  M1 ISAE SUPAERO (Jun 2024–Aug 2024)
+
+- **Mohsin JALEEL**  
+  M2 IATSED (Airbus) (Feb 2024 – Apr 2024)
+
+- **Sofiane Bessai**  
+  M2 HPC & Simulation Internship (Feb 2022 – Jun 2022)
+
+- **Kahina FELLAH**  
+  M1 HPC & Simulation Internship (Apr 2022 – Jun 2022)
