@@ -95,6 +95,7 @@ My research interests lie at the intersection of formal methods and embedded sys
 
 ## Contact
 {: #contact}
+
   <!-- Email -->
   <div style="flex:1; min-width:250px; padding:15px; border:1px solid #ddd; border-radius:8px;">
     <h3>ENAC Email</h3>
