@@ -62,7 +62,7 @@ My research interests lie at the intersection of formal methods and embedded sys
 - **Julien BORTOLUSSI**  
   ENAC, with Pierre-Loïc Garoche (Oct 2024–present)
 
-## Interns
+### Interns
 
 - **Léonard RIVALS**  
   M2 Research Internship, University of Montpellier (Mar 2026 – Aug 2026)
@@ -73,7 +73,7 @@ My research interests lie at the intersection of formal methods and embedded sys
 - **Killian MALLEGOL**  
   ENAC student apprentice at Thales AVS, Toulouse (2024–2026)
 
-## Alumni
+### Alumni
 
 - **Pradeep KRISHNAMURTHY-VIJAYALAKHMI**  
   M1 ISAE SUPAERO (Jun 2025–Sep 2025)
