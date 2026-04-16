@@ -44,7 +44,7 @@ My research interests lie at the intersection of formal methods and embedded sys
 
 
 ## News
-📢 Co-organizer of the [“Toulouse Embedded AI Challenge@ANITI”](https://embeddedaitoulouse.github.io/) in Toulouse.
+📢 Co-organizer of the [“Toulouse Embedded AI Challenge@ANITI”](https://embeddedaitoulouse.github.io/).
 
 
 ## Academic Service
