@@ -4,7 +4,6 @@ title: ""
 permalink: /software/
 author_profile: true
 ---
-
 ## POPiNN (2024)
 **Description:** A fixed-point program synthesis tool for neural networks.  
 **Tags:** Fixed-Point, Neural Networks  
