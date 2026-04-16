@@ -90,6 +90,10 @@ My research interests lie at the intersection of formal methods and embedded sys
 - **Kahina FELLAH**  
   M1 HHPC & Simulation Internship (Apr 2022–Jun 2019)
 
+
+## Contact
+{: #contact}
+
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
   <!-- Email -->
@@ -108,7 +112,6 @@ My research interests lie at the intersection of formal methods and embedded sys
 
 <br/>
 
-## Location
 
 <div style="max-width:600px;">
 <iframe 
