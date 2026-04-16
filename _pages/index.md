@@ -57,7 +57,6 @@ My research interests lie at the intersection of formal methods and embedded sys
 ## People
 {: #people}
 ## PhD Students
-
 - **Faysal ELOUCHDI**  
   ENAC, University of Perpignan and University of Tlemcen (Algeria) (Mar 2025–present)
 
@@ -115,7 +114,6 @@ My research interests lie at the intersection of formal methods and embedded sys
 
 <br/>
 ## Location
-
 <div style="max-width:600px;">
 <iframe 
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11564.821426114535!2d1.4918245479028271!3d43.56060387540745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12aebdcc97f63627%3A0x4973c9f85bbbf5fd!2s%C3%89cole%20Nationale%20de%20l%27Aviation%20Civile!5e0!3m2!1sfr!2sfr!4v1712311232923!5m2!1sfr!2sfr" 
@@ -127,4 +125,3 @@ My research interests lie at the intersection of formal methods and embedded sys
   referrerpolicy="no-referrer-when-downgrade">
 </iframe>
 </div>
-
