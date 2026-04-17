@@ -63,15 +63,14 @@ author_profile: true
 <div class="software-card">
   <h3>Candy (2022)</h3>
   <p>C++ library for floating-point cancellation detection.</p>
-  <p><strong>Tags:</strong> C++ · Floating-Point</p>
+  <p><strong>Tags:</strong> C++ · Floating-Point arithmetic, pitfalls</p>
 </div>
 
 <div class="software-card">
   <h3>POP (2019 - 2021 )</h3>
-
    <p>Static tool for floating-point precision tuning.</p>
    <p> <a href="https://github.com/dbenkhal/POPiX">GitHub 2</a> </p>
- <p>  <strong>Tags:</strong> Floating-Point · Precision tuning</p>
+ <p>  <strong>Tags:</strong> Floating-Point arithmetic· Precision tuning</p>
 </div>
 
 
