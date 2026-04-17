@@ -39,7 +39,8 @@ My research interests lie at the intersection of formal methods and embedded sys
 
 </div>
 
-<h2 id="news">News</h2>
+## News
+{: #news}
 - 📢 Co-organizer of the [“Toulouse Embedded AI Challenge@ANITI”](https://embeddedaitoulouse.github.io/).
 - 📢 Co-organizer of the GT TONES (Working Group on Optimization and Verification for Critical Systems) within the [GDR SciLog](https://gdr-scilog.cnrs.fr/).
 
@@ -50,15 +51,16 @@ My research interests lie at the intersection of formal methods and embedded sys
 -  [TOSEM(2025)](https://dl.acm.org/journal/tosem), [PLDI 2023 SRC](https://pldi23.sigplan.org/track/pldi-2023-src), [The Journal of Supercomputing 2022](https://www.springer.com/journal/11227) — Reviewer  
 - [ECOOP 2023](https://2023.ecoop.org/), [FORMATS 2022](https://conferences.ncl.ac.uk/formats2022/) — External Review Committee
 
-<h2 id="people">People</h2>
-## PhD Students
+## People
+{: #people}
+### PhD Students
 - **Faysal ELOUCHDI**  
   ENAC, University of Perpignan and University of Tlemcen (Algeria) (Mar 2025–present)
 
 - **Julien BORTOLUSSI**  
   ENAC, with Pierre-Loïc Garoche (Oct 2024–present)
 
-## Interns
+### Interns
 
 - **Léonard RIVALS**  
   M2 Research Internship, University of Montpellier (Mar 2026 – Aug 2026)
@@ -69,7 +71,7 @@ My research interests lie at the intersection of formal methods and embedded sys
 - **Killian MALLEGOL**  
   ENAC student apprentice at Thales AVS, Toulouse (2024–2026)
 
-## Alumni
+### Alumni
 
 - **Pradeep KRISHNAMURTHY-VIJAYALAKHMI**  
   M1 ISAE SUPAERO (Jun 2025–Sep 2025)
@@ -86,9 +88,9 @@ My research interests lie at the intersection of formal methods and embedded sys
 - **Kahina FELLAH**  
   M1 HPC & Simulation Internship (Apr 2022–Jun 2019)
 
-<h2 id="contact">Contact</h2>
 
-
+## Contact
+{: #contact}
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:20px;">
 
   <!-- Email -->
