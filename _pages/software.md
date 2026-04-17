@@ -1,30 +1,74 @@
 ---
 layout: archive
-title: ""
+title: "Software"
 permalink: /software/
 author_profile: true
 ---
-## POPiNN (2024)
-**Description:** A fixed-point program synthesis tool for neural networks.  
-**Tags:** Fixed-Point, Neural Networks  
 
----
+<style>
+.software-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
 
-## POPiX (2023)
--**Description:** A fixed-point program synthesis tool based on static analysis.  
-**Links:**  
-- [Version 1](https://github.com/sofiane-bessai/POPIX)  
-- [Version 2](https://github.com/dbenkhal/POPiX)  
-**Tags:** Fixed-Point, Neural Networks, Static Analysis  
+.software-card {
+  padding: 15px;
+  border: 1px solid #eee;
+  border-radius: 10px;
+}
 
----
+.software-card h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
 
-## Candy (2022)
-**Description:** A C++ library for dynamic floating-point cancellation detection.  
-**Tags:** C++, Floating-Point, Cancellation detection
+.software-card a {
+  color: #007bff;
+  text-decoration: none;
+}
 
----
+.software-card a:hover {
+  text-decoration: underline;
+}
 
-## POP (2019)
-**Description:** A static tool for floating-point precision tuning.  
-**Tags:**  Floating-Point, precision tuning  
+@media (max-width: 800px) {
+  .software-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+## Software Projects
+
+<div class="software-grid">
+
+<div class="software-card">
+  <h3>POPiNN (2024)</h3>
+  <p>Fixed-point program synthesis tool for neural networks.</p>
+  <p><strong>Tags:</strong> Fixed-Point · Neural Networks</p>
+</div>
+
+<div class="software-card">
+  <h3>POP (2019)</h3>
+  <p>Static tool for floating-point precision tuning.</p>
+  <p><strong>Tags:</strong> Floating-Point · Precision tuning</p>
+</div>
+
+<div class="software-card">
+  <h3>POPiX (2023)</h3>
+  <p>Fixed-point program synthesis tool based on static analysis.</p>
+  <p>
+    <a href="https://github.com/sofiane-bessai/POPIX">GitHub 1</a> ·
+    <a href="https://github.com/dbenkhal/POPiX">GitHub 2</a>
+  </p>
+  <p><strong>Tags:</strong> Fixed-Point · Static Analysis</p>
+</div>
+
+<div class="software-card">
+  <h3>Candy (2022)</h3>
+  <p>C++ library for floating-point cancellation detection.</p>
+  <p><strong>Tags:</strong> C++ · Floating-Point</p>
+</div>
+
+</div>
