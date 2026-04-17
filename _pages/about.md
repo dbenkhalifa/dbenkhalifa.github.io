@@ -1,9 +1,6 @@
 ---
 title: ""
-layout: single
-toc: true
-toc_label: "Sections"
-toc_sticky: true
+layout: archive
 permalink: /
 author_profile: true
 show_sidebar: true
