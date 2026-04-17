@@ -68,11 +68,9 @@ author_profile: true
 
 <div class="software-card">
   <h3>POP (2019 - 2021 )</h3>
-  <p>Static tool for floating-point precision tuning.</p>
-    <p>
-    <a href="https://github.com/dbenkhal/POPiX">GitHub 2</a>
-  </p>
-  <p><strong>Tags:</strong> Floating-Point · Precision tuning</p>
+  -Static tool for floating-point precision tuning.
+  - <a href="https://github.com/dbenkhal/POPiX">GitHub 2</a>
+ - <strong>Tags:</strong> Floating-Point · Precision tuning
 </div>
 
 
