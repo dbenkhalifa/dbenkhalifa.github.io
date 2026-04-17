@@ -41,27 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-.page-wrapper {
-  display: flex;
-  gap: 30px;
-}
-
-.section-nav {
-  position: sticky;
-  top: 120px;
-  min-width: 120px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.section-nav a {
-  text-decoration: none;
-  color: #444;
-  font-weight: 500;
-}
-
-.section-nav a:hover {
-  color: #007bff;
-}
