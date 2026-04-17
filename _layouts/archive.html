@@ -12,14 +12,16 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
+<div id="main" role="main" class="page-wrapper">
+
   {% include sidebar.html %}
-  
+
   <nav class="section-nav">
-  <a href="#news">News</a>
-  <a href="#people">People</a>
-  <a href="#contact">Contact</a>
-</nav>
+    <a href="#news">News</a>
+    <a href="#people">People</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
