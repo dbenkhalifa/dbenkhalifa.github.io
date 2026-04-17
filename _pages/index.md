@@ -41,7 +41,6 @@ My research interests lie at the intersection of formal methods and embedded sys
 </div>
 
 <h2 id="news">News</h2>
-
 - 📢 Co-organizer of the [“Toulouse Embedded AI Challenge@ANITI”](https://embeddedaitoulouse.github.io/).
 - 📢 Co-organizer of the GT TONES (Working Group on Optimization and Verification for Critical Systems) within the [GDR SciLog](https://gdr-scilog.cnrs.fr/).
 
@@ -53,7 +52,6 @@ My research interests lie at the intersection of formal methods and embedded sys
 - [ECOOP 2023](https://2023.ecoop.org/), [FORMATS 2022](https://conferences.ncl.ac.uk/formats2022/) — External Review Committee
 
 <h2 id="people">People</h2>
-
 ## PhD Students
 - **Faysal ELOUCHDI**  
   ENAC, University of Perpignan and University of Tlemcen (Algeria) (Mar 2025–present)
