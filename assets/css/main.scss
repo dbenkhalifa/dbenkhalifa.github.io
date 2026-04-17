@@ -41,15 +41,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
 .software-card {
   padding: 15px;
   border: 1px solid #000;
   border-radius: 10px;
-  background: transparent;
+  background: transparent !important;
   box-shadow: none;
-}
-
-.software-card:hover {
-  background: rgba(0,0,0,0.03);
 }
