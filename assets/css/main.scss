@@ -43,8 +43,7 @@
 ;
 .software-card {
   padding: 15px;
-  border: 1px solid #000;
+  border: 1px solid #000000;  /* 👈 cadre noir */
   border-radius: 10px;
-  background: transparent !important;
-  box-shadow: none;
+  background: transparent;
 }
