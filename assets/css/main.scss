@@ -55,3 +55,22 @@
   color: #007bff;
   border-bottom: 2px solid #007bff;
 }
+
+.section-nav {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: sticky;
+  top: 120px;
+}
+
+.section-nav a {
+  text-decoration: none;
+  color: #555;
+  font-weight: 500;
+}
+
+.section-nav a:hover {
+  color: #007bff;
+}
