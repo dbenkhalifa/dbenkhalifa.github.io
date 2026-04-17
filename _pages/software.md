@@ -44,15 +44,9 @@ author_profile: true
 <div class="software-grid">
 
 <div class="software-card">
-  <h3>POPiNN (2024)</h3>
+  <h3>POPinns (2024)</h3>
   <p>Fixed-point program synthesis tool for neural networks.</p>
   <p><strong>Tags:</strong> Fixed-Point · Neural Networks</p>
-</div>
-
-<div class="software-card">
-  <h3>POP (2019)</h3>
-  <p>Static tool for floating-point precision tuning.</p>
-  <p><strong>Tags:</strong> Floating-Point · Precision tuning</p>
 </div>
 
 <div class="software-card">
@@ -65,10 +59,22 @@ author_profile: true
   <p><strong>Tags:</strong> Fixed-Point · Static Analysis</p>
 </div>
 
+
 <div class="software-card">
   <h3>Candy (2022)</h3>
   <p>C++ library for floating-point cancellation detection.</p>
   <p><strong>Tags:</strong> C++ · Floating-Point</p>
 </div>
+
+<div class="software-card">
+  <h3>POP (2019 - 2021 )</h3>
+  <p>Static tool for floating-point precision tuning.</p>
+    <p>
+    <a href="https://github.com/dbenkhal/POPiX">GitHub 2</a>
+  </p>
+  <p><strong>Tags:</strong> Floating-Point · Precision tuning</p>
+</div>
+
+
 
 </div>
