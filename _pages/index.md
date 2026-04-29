@@ -41,7 +41,7 @@ My research interests lie at the intersection of formal methods and embedded sys
 </div>
 
 <h2 id="news">News</h2>
-- 📢 A funded PhD thesis will start in October 2026 on [formal verification of quantized neural networks] (https://w3.onera.fr/formationparlarecherche/sites/w3.onera.fr.formationparlarecherche/files/tis-dtis-2026-28.pdf).
+- 📢 A funded PhD thesis will start in October 2026 on [formal verification of quantized neural networks on embedded systems] (https://w3.onera.fr/formationparlarecherche/sites/w3.onera.fr.formationparlarecherche/files/tis-dtis-2026-28.pdf).
 - 📢 Co-organizer of the [“Toulouse Embedded AI Challenge@ANITI”](https://embeddedaitoulouse.github.io/).
 - 📢 Co-organizer of the GT TONES (Working Group on Optimization and Verification for Critical Systems) within the [GDR SciLog](https://gdr-scilog.cnrs.fr/).
 
