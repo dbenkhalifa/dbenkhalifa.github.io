@@ -59,7 +59,7 @@ My research interests lie at the intersection of formal methods and embedded sys
   ENAC, University of Perpignan and University of Tlemcen (Algeria) (Mar 2025–present)
 
 - **Julien BORTOLUSSI**  
-  ENAC, with Pierre-Loïc Garoche (Oct 2024–present)
+  ENAC, with [Pierre-Loic Garoche](https://garoche.net/)(Oct 2024–present)
 
 ### Interns
 
