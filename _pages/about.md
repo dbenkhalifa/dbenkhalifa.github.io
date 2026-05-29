@@ -6,7 +6,7 @@ author_profile: true
 show_sidebar: true
 ---
 
-I am an Associate Professor at ENAC, the French National School of Civil Aviation, and a member of the Interactive Informatics Team at the ENAC Research Lab. Before joining ENAC, I completed a postdoctoral fellowship at the University of Perpignan, where I focused on fixed-point code synthesis for neural networks. I defended my PhD thesis, [*Fast and Efficient Bit-level Precision Tuning*](https://theses.hal.science/tel-03509266), at the University of Perpignan in 2021. 
+I am an Associate Professor at ENAC, the French National School of Civil Aviation, and a member of the Interactive Informatics Team at the ENAC Research Lab. Before joining ENAC, I completed a postdoctoral fellowship at the University of Perpignan working with [Matthieu Martel](https://perso.univ-perp.fr/matthieu.martel/index.html), where I focused on fixed-point code synthesis for neural networks. I defended my PhD thesis, [*Fast and Efficient Bit-level Precision Tuning*](https://theses.hal.science/tel-03509266), at the University of Perpignan in 2021. 
 
 My research interests lie at the intersection of formal methods and embedded systems. I explore FPGA code synthesis and the efficient implementation of floating-point and fixed-point arithmetic on hardware, alongside embedded AI and neural network optimization through precision tuning, quantization, pruning, and compression.
 
