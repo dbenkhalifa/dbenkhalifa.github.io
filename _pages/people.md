@@ -12,7 +12,7 @@ author_profile: true
 - **Faysal ELOUCHDI**
   ENAC, University of Perpignan and University de Tlemcen (Algeria) (Mar 2025–present)
 - **Julien BORTOLUSSI**
-  ENAC, with Pierre-Loic Garoche (Oct 2024–present)
+  ENAC, with [Pierre-Loic Garoche](https://garoche.net/) (Oct 2024–present)
 
 ---
 
