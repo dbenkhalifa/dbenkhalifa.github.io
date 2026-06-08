@@ -102,7 +102,7 @@ My research interests lie at the intersection of formal methods and embedded sys
   <!-- Office -->
   <div style="flex:1; min-width:250px; padding:15px; border:1px solid #ddd; border-radius:8px;">
     <h3>Office</h3>
-    <p>C103, Building Caudron, First Floor</p>
+    <p>C103, Building Caudron, 2nd Floor</p>
   </div>
 
 </div>
