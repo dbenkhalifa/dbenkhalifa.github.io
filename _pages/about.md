@@ -46,7 +46,7 @@ My research interests lie at the intersection of formal methods and embedded sys
 - 📢 Co-organizer with [Timothy Bourke](https://www.tbrk.org/) of the GT TONES (Working Group on Optimization and Verification for Critical Systems) within the [GDR SciLog](https://gdr-scilog.cnrs.fr/).
 
 <h2 id="service">Academic Service</h2>
-- [FDL 2026](https://www.fdl-conference.com/index.html)
+- [FDL 2026](https://www.fdl-conference.com/index.html), [Prix de Thèse GDR SciLog 2026](https://gdr-scilog.cnrs.fr/action/prix-de-these-gpl/)
 - [CAV 2025](https://conferences.i-cav.org/2025/), [OOPSLA 2025 (R1&R2)](https://2025.splashcon.org/track/OOPSLA), [VSS 2025](https://vsl.cis.udel.edu/vss2025/), [CoDIT 2025](https://codit2025.org/), [CoDIT 2024](https://codit2024.com/index.php), [CoDIT 2023](https://codit2023.com/) — Program Committee  
 - [PLDI 2024](https://pldi24.sigplan.org/track/pldi-2024-pldi-research-artifacts), [SAS 2023](https://conf.researchr.org/home/sas-2023), [ECOOP 2023](https://2023.ecoop.org/), [SAS 2022](https://2022.splashcon.org/home/sas-2022#Home), [FORMATS 2022](https://conferences.ncl.ac.uk/formats2022/) — Artifact Evaluation Committee  
 -  [TOSEM(2025)](https://dl.acm.org/journal/tosem), [PLDI 2023 SRC](https://pldi23.sigplan.org/track/pldi-2023-src), [The Journal of Supercomputing 2022](https://www.springer.com/journal/11227) — Reviewer  
