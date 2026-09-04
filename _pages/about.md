@@ -56,7 +56,6 @@ My research interests lie at the intersection of formal methods and embedded sys
 ### PhD Students
 
 - **Evan CHINNAYA**
-  
   ENAC and ONERA with [Julien Brunel](https://www.onera.fr/fr/staff/julien-brunel) (Nov 2026-Nov 2029)
   
 - **Faysal ELOUCHDI**  
