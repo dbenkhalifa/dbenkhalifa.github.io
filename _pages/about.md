@@ -57,6 +57,7 @@ My research interests lie at the intersection of formal methods and embedded sys
 
 - **Evan CHINNAYA**
   ENAC and ONERA  with [Julien Brunel](https://www.onera.fr/fr/staff/julien-brunel) (Nov 2026-Nov 2029)
+  
 - **Faysal ELOUCHDI**  
   ENAC, University of Perpignan and University of Tlemcen (Algeria) (Mar 2025–present)
 
