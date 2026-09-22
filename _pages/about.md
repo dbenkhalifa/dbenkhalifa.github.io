@@ -41,7 +41,7 @@ My research interests lie at the intersection of formal methods and embedded sys
 
 ## News
 {: #news}
-- Congratulations to Julien for having his paper accepted at SYNASC’26: “FPScan: An Automated Constraint-Based Analyzer for Floating-Point Anomaly Detection”. The preprint is available [here] (https://enac.hal.science/hal-05741180v1).
+- Congratulations to Julien for having his paper accepted at SYNASC’26: “FPScan: An Automated Constraint-Based Analyzer for Floating-Point Anomaly Detection”. The preprint is available [here](https://enac.hal.science/hal-05741180v1).
 - 📢 Co-organizer of the [“Toulouse Embedded AI Challenge@ANITI”](https://embeddedaitoulouse.github.io/).
 - 📢 Co-organizer with [Timothy Bourke](https://www.tbrk.org/) of the GT TONES (Working Group on Optimization and Verification for Critical Systems) within the [GDR SciLog](https://gdr-scilog.cnrs.fr/).
 
