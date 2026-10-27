@@ -80,6 +80,7 @@
    Author profile and links
    ========================================================================== */
 
+
 .author__avatar {
   display: table-cell;
   vertical-align: top;
@@ -95,7 +96,7 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 48%;
 
     @include breakpoint($large) {
       padding: 5px;
