@@ -81,30 +81,22 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
-
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
+  display: block;
+  width: 220px;
+  height: 220px;
+  margin: 0 auto;
 
   img {
-    width: 200px;
-    height: 200px;
-    max-width: none;
-    aspect-ratio: 1 / 1;
-    object-fit: cover;
+    display: block;
+    width: 220px !important;
+    height: 220px !important;
+    max-width: none !important;
     border-radius: 50% !important;
-
-    @include breakpoint($large) {
-      padding: 0;
-      border: 1px solid var(--global-border-color);
-    }
+    object-fit: cover;
+    box-sizing: border-box;
   }
 }
+
 
 .author__content {
   display: table-cell;
