@@ -6,8 +6,6 @@ author_profile: true
 show_sidebar: true
 ---
 
-<span id="about"></span>
-
 I am an Associate Professor at ENAC, the French National School of Civil Aviation, and a member of the Interactive Informatics Team at the ENAC Research Lab. Before joining ENAC, I completed a postdoctoral fellowship at the University of Perpignan working with [Matthieu Martel](https://perso.univ-perp.fr/matthieu.martel/index.html), where I focused on fixed-point code synthesis for neural networks. I defended my PhD thesis, [*Fast and Efficient Bit-level Precision Tuning*](https://theses.hal.science/tel-03509266), at the University of Perpignan in 2021. 
 
 My research interests lie at the intersection of formal methods and embedded systems. I explore FPGA code synthesis and the efficient implementation of floating-point and fixed-point arithmetic on hardware, alongside embedded AI and neural network optimization through precision tuning, quantization, pruning, and compression.
@@ -53,22 +51,6 @@ My research interests lie at the intersection of formal methods and embedded sys
 -  [TOSEM(2025)](https://dl.acm.org/journal/tosem), [PLDI 2023 SRC](https://pldi23.sigplan.org/track/pldi-2023-src), [The Journal of Supercomputing 2022](https://www.springer.com/journal/11227) — Reviewer  
 - [ECOOP 2023](https://2023.ecoop.org/), [FORMATS 2022](https://conferences.ncl.ac.uk/formats2022/) — External Review Committee
 
-## Publications
-{: #publications}
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-## Talks
-{: #talks}
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
-
-## Teaching
-{: #teaching}
-{% comment %} COLLE ICI le contenu de teaching.md (sans les --- du haut) {% endcomment %}
-
 ## People
 {: #people}
 ### PhD Students
@@ -110,9 +92,6 @@ My research interests lie at the intersection of formal methods and embedded sys
 - **Kahina FELLAH**  
   M1 HPC & Simulation Internship (Apr 2022–Jun 2019)
 
-## Software
-{: #software}
-{% comment %} COLLE ICI le contenu de software.md (sans les --- du haut) {% endcomment %}
 
 ## Contact
 {: #contact}
