@@ -81,16 +81,17 @@
    ========================================================================== */
 
 
+
 .author__avatar {
   display: block;
-  width: 140px;
-  height: 140px;
+  width: 150px;
+  height: 150px;
   margin: 0 auto;
 
   img {
     display: block;
-    width: 140px !important;
-    height: 140px !important;
+    width: 150px !important;
+    height: 150px !important;
     max-width: none !important;
     border-radius: 50% !important;
     object-fit: cover;
