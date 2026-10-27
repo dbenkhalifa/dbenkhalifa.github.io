@@ -80,16 +80,17 @@
    Author profile and links
    ========================================================================== */
 
+
 .author__avatar {
   display: block;
-  width: 220px;
-  height: 220px;
+  width: 150px;
+  height: 150px;
   margin: 0 auto;
 
   img {
     display: block;
-    width: 220px !important;
-    height: 220px !important;
+    width: 150px !important;
+    height: 150px !important;
     max-width: none !important;
     border-radius: 50% !important;
     object-fit: cover;
