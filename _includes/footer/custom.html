@@ -15,25 +15,4 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
-<!-- Menu: section active au défilement -->
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  var links = document.querySelectorAll(".greedy-nav a[href*='#']");
-  var items = [];
-  links.forEach(function (a) {
-    var sec = document.getElementById(a.hash.slice(1));
-    if (sec && a.pathname === window.location.pathname) items.push({ a: a, sec: sec });
-  });
-  function update() {
-    var y = window.scrollY + 120, current = null;
-    items.forEach(function (it) {
-      if (it.sec.getBoundingClientRect().top + window.scrollY <= y) current = it;
-    });
-    items.forEach(function (it) { it.a.classList.toggle("active", it === current); });
-  }
-  window.addEventListener("scroll", update);
-  update();
-});
-</script>
-
 <!-- end custom footer snippets -->
