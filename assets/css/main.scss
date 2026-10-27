@@ -50,3 +50,8 @@
 .page__content a {
   text-decoration: none !important;
 }
+
+/* Menu aligné à gauche */
+.masthead__inner-wrap { max-width: 100%; }
+.greedy-nav .visible-links { float: left; }
+.greedy-nav .visible-links li:first-child { margin-right: 2em; }
