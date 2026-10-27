@@ -94,12 +94,13 @@
   img {
     width: 200px;
     height: 200px;
-    max-width: 100%;
+    max-width: none;
+    aspect-ratio: 1 / 1;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 50% !important;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 0;
       border: 1px solid var(--global-border-color);
     }
   }
