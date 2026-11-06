@@ -41,7 +41,7 @@ My research interests lie at the intersection of formal methods and embedded sys
 
 ## News
 {: #news}
-- 📢 New internship offer (M2): **Extending Constraint-Based Neural Network Quantization for FPGA Deployment**. See the [description (PDF)](/files/internship_quantization_fpga.pdf).
+- 📢 New internship offer (M2): **Extending Constraint-Based Neural Network Quantization for FPGA Deployment**. See the [description (PDF)](/files/DNN_quantization_M2_internship.pdf).
 
 
 <h2 id="service">Academic Service</h2>
