@@ -330,12 +330,12 @@ show_sidebar: true
 
 <h2 id="service">Academic Service</h2>
 <div class="ab-service">
-  <div class="ab-label">🏛️ Co-chair</div>
+  <div class="ab-label"> Co-chair</div>
   <div class="ab-chips">
     <a href="https://gdr-scilog.cnrs.fr/">GT TONES · GDR SciLog</a>
     <a href="https://embeddedaitoulouse.github.io/">Toulouse Embedded AI Challenge @ ANITI</a>
   </div>
-  <div class="ab-label">📋 Program Committee</div>
+  <div class="ab-label"> Program Committee</div>
   <div class="ab-chips">
     <a href="https://www.fdl-conference.com/index.html">FDL 2026</a>
     <a href="https://gdr-scilog.cnrs.fr/action/prix-de-these-gpl/">Prix de Thèse GDR SciLog 2026</a>
@@ -346,7 +346,7 @@ show_sidebar: true
     <a href="https://codit2024.com/index.php">CoDIT 2024</a>
     <a href="https://codit2023.com/">CoDIT 2023</a>
   </div>
-  <div class="ab-label">📦 Artifact Evaluation</div>
+  <div class="ab-label">Artifact Evaluation</div>
   <div class="ab-chips">
     <a href="https://pldi24.sigplan.org/track/pldi-2024-pldi-research-artifacts">PLDI 2024</a>
     <a href="https://conf.researchr.org/home/sas-2023">SAS 2023</a>
@@ -354,12 +354,12 @@ show_sidebar: true
     <a href="https://2022.splashcon.org/home/sas-2022#Home">SAS 2022</a>
     <a href="https://conferences.ncl.ac.uk/formats2022/">FORMATS 2022</a>
   </div>
-  <div class="ab-label">🔎 External Review</div>
+  <div class="ab-label"> External Review</div>
   <div class="ab-chips">
     <a href="https://2023.ecoop.org/">ECOOP 2023</a>
     <a href="https://conferences.ncl.ac.uk/formats2022/">FORMATS 2022</a>
   </div>
-  <div class="ab-label">✍️ Reviewer</div>
+  <div class="ab-label"> Reviewer</div>
   <div class="ab-chips">
     <a href="https://dl.acm.org/journal/tosem">TOSEM 2025</a>
     <a href="https://pldi23.sigplan.org/track/pldi-2023-src">PLDI 2023 SRC</a>
