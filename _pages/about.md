@@ -40,7 +40,7 @@ My research interests lie at the intersection of formal methods and embedded sys
 ## News
 {: #news}
 - 📢 New internship offer (M2): **Extending Constraint-Based Neural Network Quantization for FPGA Deployment**. See the [description (PDF)](/files/DNN_quantization_M2_internship.pdf).
-
+- I am on the IPC of [CoDIT 2027](https://codit2027.com/)
 
 <h2 id="service">Academic Service</h2>
 - [GT TONES](https://gdr-scilog.cnrs.fr/) (Working Group on Optimization and Verification for Critical Systems, [GDR SciLog](https://gdr-scilog.cnrs.fr/)) — Co-chair  
