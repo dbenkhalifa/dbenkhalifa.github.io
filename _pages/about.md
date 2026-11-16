@@ -52,7 +52,6 @@ My research interests lie at the intersection of formal methods and embedded sys
 ## People
 {: #people}
 ### PhD Students
-
 - **Evan CHINNAYA**  
   ENAC and ONERA with [Julien Brunel](https://www.onera.fr/fr/staff/julien-brunel) (Nov 2026–Nov 2029)
 - **Faysal ELOUCHDI**  
@@ -62,18 +61,15 @@ My research interests lie at the intersection of formal methods and embedded sys
 {: style="font-size:0.85rem; line-height:1.4;"}
 
 ### Interns
-
 - **Hugo SUTRA**  
   ENAC student apprentice at Collins Aerospace, Toulouse (2024–2027)
-
 {: style="font-size:0.85rem; line-height:1.4;"}
 
 ### Alumni
-
 - **Killian MALLEGOL**  
   ENAC student apprentice at Thales AVS, Toulouse (2024–2026)
-- **Ingrid Moufé**
-  M1 Research Internship, ENSEEIHT (Jun-Aug 2026)
+- **Ingrid MOUFÉ**  
+  M1 Research Internship, ENSEEIHT (Jun–Aug 2026)
 - **Léonard RIVALS**  
   M2 Research Internship, University of Montpellier (Mar 2026–Aug 2026)
 - **Pradeep KRISHNAMURTHY-VIJAYALAKHMI**  
