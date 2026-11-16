@@ -57,7 +57,7 @@ My research interests lie at the intersection of formal methods and embedded sys
   ENAC and ONERA with [Julien Brunel](https://www.onera.fr/fr/staff/julien-brunel) (Nov 2026–Nov 2029)
 - **Faysal ELOUCHDI**  
   ENAC, University of Perpignan and University of Tlemcen (Algeria) (Mar 2025–present)
-- **Julien BORTOLUSSI**  
+- **[Julien BORTOLUSSI](https://theses.fr/s398854)**  
   ENAC, with [Pierre-Loic Garoche](https://garoche.net/) (Oct 2024–present)
 {: style="font-size:0.85rem; line-height:1.4;"}
 
