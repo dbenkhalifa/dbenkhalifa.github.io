@@ -41,12 +41,22 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ===== Personnalisations ===== */
+
+/* Cartes logiciels : cadre noir */
 .software-card {
   padding: 15px;
-  border: 1px solid #000000;  /* 👈 cadre noir */
+  border: 1px solid #000000;
   border-radius: 10px;
   background: transparent;
 }
-.page__content a {
+
+/* Liens jamais soulignés (toutes les pages, tous les états) */
+a,
+a:visited,
+a:hover,
+a:focus,
+a:active {
   text-decoration: none !important;
 }
