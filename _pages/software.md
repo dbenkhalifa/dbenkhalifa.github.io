@@ -24,7 +24,7 @@ author_profile: true
 .sw-card:hover {
   transform: translateY(-3px);
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
-  border-color: rgba(0, 123, 255, 0.35);
+  border-color: var(--global-link-color, #52adc8);
 }
 .sw-head {
   display: flex;
@@ -61,12 +61,13 @@ author_profile: true
   font-size: 0.7rem;
   padding: 3px 10px;
   border-radius: 999px;
-  background: rgba(0, 123, 255, 0.08);
-  color: #0b5ed7;
+  background: color-mix(in srgb, var(--global-link-color, #52adc8) 12%, transparent);
+  color: var(--global-link-color, #52adc8);
 }
 .sw-links {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 8px;
   margin-top: auto;
 }
@@ -84,13 +85,16 @@ author_profile: true
   transition: background .2s ease, color .2s ease, border-color .2s ease;
 }
 .sw-links a:hover {
-  background: #0b5ed7;
-  border-color: #0b5ed7;
+  background: var(--global-link-color, #52adc8);
+  border-color: var(--global-link-color, #52adc8);
   color: #fff;
 }
-.sw-nolink {
+.sw-private {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
   font-size: 0.75rem;
-  opacity: 0.5;
+  opacity: 0.7;
   font-style: italic;
 }
 </style>
@@ -110,7 +114,7 @@ author_profile: true
   <div class="sw-head"><h3>POPinns</h3><span class="sw-year">2024</span></div>
   <p class="sw-desc">Fixed-point program synthesis tool for neural networks.</p>
   <div class="sw-tags"><span class="sw-tag">Fixed-Point</span><span class="sw-tag">Neural Networks</span></div>
-  <div class="sw-links"><span class="sw-nolink">Code coming soon</span></div>
+  <div class="sw-links"><span class="sw-private"><i class="fas fa-lock"></i> Private code</span><a href="mailto:dorra.ben-khalifa@enac.fr?subject=POPinns%20access%20request"><i class="fas fa-envelope"></i> Available upon request</a></div>
 </div>
 <!-- POPiX -->
 <div class="sw-card">
@@ -124,7 +128,7 @@ author_profile: true
   <div class="sw-head"><h3>Candy</h3><span class="sw-year">2022</span></div>
   <p class="sw-desc">C++ library for floating-point cancellation detection.</p>
   <div class="sw-tags"><span class="sw-tag">C++</span><span class="sw-tag">Floating-Point</span><span class="sw-tag">Numerical Pitfalls</span></div>
-  <div class="sw-links"><span class="sw-nolink">Code coming soon</span></div>
+  <div class="sw-links"><span class="sw-private"><i class="fas fa-lock"></i> Private code</span><a href="mailto:dorra.ben-khalifa@enac.fr?subject=Candy%20access%20request"><i class="fas fa-envelope"></i> Available upon request</a></div>
 </div>
 <!-- POP -->
 <div class="sw-card">
