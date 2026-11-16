@@ -54,43 +54,37 @@ My research interests lie at the intersection of formal methods and embedded sys
 {: #people}
 ### PhD Students
 
-- **Evan CHINNAYA**
-  ENAC and ONERA with [Julien Brunel](https://www.onera.fr/fr/staff/julien-brunel) (Nov 2026-Nov 2029)
-  
+- **Evan CHINNAYA**  
+  ENAC and ONERA with [Julien Brunel](https://www.onera.fr/fr/staff/julien-brunel) (Nov 2026–Nov 2029)
 - **Faysal ELOUCHDI**  
   ENAC, University of Perpignan and University of Tlemcen (Algeria) (Mar 2025–present)
-
 - **Julien BORTOLUSSI**  
   ENAC, with [Pierre-Loic Garoche](https://garoche.net/) (Oct 2024–present)
+{: style="font-size:0.85rem; line-height:1.4;"}
 
 ### Interns
 
 - **Hugo SUTRA**  
   ENAC student apprentice at Collins Aerospace, Toulouse (2024–2027)
-
 - **Killian MALLEGOL**  
   ENAC student apprentice at Thales AVS, Toulouse (2024–2026)
+{: style="font-size:0.85rem; line-height:1.4;"}
 
 ### Alumni
 
 - **Léonard RIVALS**  
-  M2 Research Internship, University of Montpellier (Mar 2026 – Aug 2026)
-
+  M2 Research Internship, University of Montpellier (Mar 2026–Aug 2026)
 - **Pradeep KRISHNAMURTHY-VIJAYALAKHMI**  
   M1 ISAE SUPAERO (Jun 2025–Sep 2025)
-
 - **Meet VACHHANI**  
   M1 ISAE SUPAERO (Jun 2024–Aug 2024)
-
 - **Mohsin JALEEL**  
-  M2 IATSED (Airbus) (Feb 2024 – Apr 2024)
-
-- **Sofiane Bessai**  
-  M2 HPC & Simulation Internship (Feb 2022 –Jun 2022)
-
+  M2 IATSED (Airbus) (Feb 2024–Apr 2024)
+- **Sofiane BESSAI**  
+  M2 HPC & Simulation Internship (Feb 2022–Jun 2022)
 - **Kahina FELLAH**  
-  M1 HPC & Simulation Internship (Apr 2022–Jun 2019)
-
+  M1 HPC & Simulation Internship (Apr 2022–Jun 2022)
+{: style="font-size:0.85rem; line-height:1.4;"}
 
 ## Contact
 {: #contact}
