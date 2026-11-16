@@ -6,73 +6,131 @@ author_profile: true
 ---
 
 <style>
-.software-grid {
+.sw-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 22px;
+  margin-top: 10px;
 }
-
-.software-card {
-  padding: 15px;
-  border: 1px solid #eee;
-  border-radius: 10px;
+.sw-card {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 22px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 14px;
+  background: transparent;
+  transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
 }
-
-.software-card h3 {
-  margin-top: 0;
+.sw-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  border-color: rgba(0, 123, 255, 0.35);
+}
+.sw-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 10px;
   margin-bottom: 8px;
 }
-
-.software-card a {
-  color: #007bff;
-  text-decoration: none;
+.sw-head h3 {
+  margin: 0;
+  font-size: 1.1rem;
 }
-
-.software-card a:hover {
-  text-decoration: underline;
+.sw-year {
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 2px 10px;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.06);
+  white-space: nowrap;
 }
-
-@media (max-width: 800px) {
-  .software-grid {
-    grid-template-columns: 1fr;
-  }
+.sw-desc {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  margin: 0 0 14px 0;
+  opacity: 0.85;
+}
+.sw-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 16px;
+}
+.sw-tag {
+  font-size: 0.7rem;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: rgba(0, 123, 255, 0.08);
+  color: #0b5ed7;
+}
+.sw-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: auto;
+}
+.sw-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 5px 12px;
+  border: 1px solid rgba(0, 0, 0, 0.18);
+  border-radius: 8px;
+  color: inherit;
+  text-decoration: none !important;
+  transition: background .2s ease, color .2s ease, border-color .2s ease;
+}
+.sw-links a:hover {
+  background: #0b5ed7;
+  border-color: #0b5ed7;
+  color: #fff;
+}
+.sw-nolink {
+  font-size: 0.75rem;
+  opacity: 0.5;
+  font-style: italic;
 }
 </style>
 
 ## Software Projects
 
-<div class="software-grid">
-
-<div class="software-card">
-  <h3>POPinns (2024)</h3>
-  <p>Fixed-point program synthesis tool for neural networks.</p>
-  <p><strong>Tags:</strong> Fixed-Point · Neural Networks</p>
+<div class="sw-grid">
+<!-- FPScan -->
+<div class="sw-card">
+  <div class="sw-head"><h3>FPScan</h3><span class="sw-year">2026</span></div>
+  <p class="sw-desc">Detection tool for floating-point anomalies such as cancellation and absorption.</p>
+  <div class="sw-tags"><span class="sw-tag">Floating-Point</span><span class="sw-tag">Cancellation</span><span class="sw-tag">Absorption</span></div>
+  <div class="sw-links"><a href="https://github.com/JBortolussi/FPScan"><i class="fab fa-github"></i> GitHub</a></div>
 </div>
-
-<div class="software-card">
-  <h3>POPiX (2023)</h3>
-  <p>Fixed-point program synthesis tool based on static analysis.</p>
-  <p>
-    <a href="https://github.com/sofiane-bessai/POPIX">GitHub 1</a> ·
-    <a href="https://github.com/dbenkhal/POPiX">GitHub 2</a>
-  </p>
-  <p><strong>Tags:</strong> Fixed-Point · Static Analysis</p>
+<!-- POPinns -->
+<div class="sw-card">
+  <div class="sw-head"><h3>POPinns</h3><span class="sw-year">2024</span></div>
+  <p class="sw-desc">Fixed-point program synthesis tool for neural networks.</p>
+  <div class="sw-tags"><span class="sw-tag">Fixed-Point</span><span class="sw-tag">Neural Networks</span></div>
+  <div class="sw-links"><span class="sw-nolink">Code coming soon</span></div>
 </div>
-
-
-<div class="software-card">
-  <h3>Candy (2022)</h3>
-  <p>C++ library for floating-point cancellation detection.</p>
-  <p><strong>Tags:</strong> C++ · Floating-Point arithmetic, pitfalls</p>
+<!-- POPiX -->
+<div class="sw-card">
+  <div class="sw-head"><h3>POPiX</h3><span class="sw-year">2023</span></div>
+  <p class="sw-desc">Fixed-point program synthesis tool based on static analysis.</p>
+  <div class="sw-tags"><span class="sw-tag">Fixed-Point</span><span class="sw-tag">Static Analysis</span></div>
+  <div class="sw-links"><a href="https://github.com/sofiane-bessai/POPIX"><i class="fab fa-github"></i> GitHub 1</a><a href="https://github.com/dbenkhal/POPiX"><i class="fab fa-github"></i> GitHub 2</a></div>
 </div>
-
-<div class="software-card">
-  <h3>POP (2019 - 2021 )</h3>
-   <p>Static tool for floating-point precision tuning.</p>
-   <p> <a href="https://github.com/dbenkhal/POPiX">GitHub 2</a> </p>
- <p>  <strong>Tags:</strong> Floating-Point arithmetic· Precision tuning</p>
+<!-- Candy -->
+<div class="sw-card">
+  <div class="sw-head"><h3>Candy</h3><span class="sw-year">2022</span></div>
+  <p class="sw-desc">C++ library for floating-point cancellation detection.</p>
+  <div class="sw-tags"><span class="sw-tag">C++</span><span class="sw-tag">Floating-Point</span><span class="sw-tag">Numerical Pitfalls</span></div>
+  <div class="sw-links"><span class="sw-nolink">Code coming soon</span></div>
 </div>
-
-
-
+<!-- POP -->
+<div class="sw-card">
+  <div class="sw-head"><h3>POP</h3><span class="sw-year">2019–2021</span></div>
+  <p class="sw-desc">Static analysis tool for floating-point precision tuning.</p>
+  <div class="sw-tags"><span class="sw-tag">Floating-Point</span><span class="sw-tag">Precision Tuning</span></div>
+  <div class="sw-links"><a href="https://github.com/dbenkhal/POPiX"><i class="fab fa-github"></i> GitHub</a></div>
+</div>
 </div>
