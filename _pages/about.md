@@ -73,7 +73,7 @@ My research interests lie at the intersection of formal methods and embedded sys
 - **Killian MALLEGOL**  
   ENAC student apprentice at Thales AVS, Toulouse (2024–2026)
 - **Ingrid Moufé**
-  M1 ENSEEIHT (Jun-AUg 2026)
+  M1 Research Internship, ENSEEIHT (Jun-Aug 2026)
 - **Léonard RIVALS**  
   M2 Research Internship, University of Montpellier (Mar 2026–Aug 2026)
 - **Pradeep KRISHNAMURTHY-VIJAYALAKHMI**  
