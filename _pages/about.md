@@ -25,16 +25,15 @@ My research interests lie at the intersection of formal methods and embedded sys
     </ul>
   </div>
 
-<!-- Education -->
-<div style="flex:1; min-width:300px;">
-  <h2 style="margin-bottom:10px;">Education</h2>
-  <ul style="margin-top:0; list-style:none; padding-left:0;">
-    <li>🎓  <strong>PhD in Computer Science, 2021</strong> — University of Perpignan, France</li>
-    <li>🎓  <strong>MSc in Computer Science, 2018</strong> — University of Perpignan (France) & University of Sousse (Tunisia)</li>
-    <li>🎓  <strong>BSc in Computer Science, 2016</strong> — University of Sousse, Tunisia</li>
-  </ul>
-</div>
-
+  <!-- Education -->
+  <div style="flex:1; min-width:300px;">
+    <h2 style="margin-bottom:10px;">Education</h2>
+    <ul style="margin-top:0; list-style:none; padding-left:0; font-size:0.85rem; line-height:1.4;">
+      <li>🎓 <strong>PhD in Computer Science, 2021</strong> — University of Perpignan, France</li>
+      <li>🎓 <strong>MSc in Computer Science, 2018</strong> — University of Perpignan (France) &amp; University of Sousse (Tunisia)</li>
+      <li>🎓 <strong>BSc in Computer Science, 2016</strong> — University of Sousse, Tunisia</li>
+    </ul>
+  </div>
 </div>
 
 ## News
