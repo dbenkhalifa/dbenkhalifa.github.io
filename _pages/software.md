@@ -128,7 +128,7 @@ author_profile: true
   <div class="sw-head"><h3>Candy</h3><span class="sw-year">2022</span></div>
   <p class="sw-desc">C++ library for floating-point cancellation detection.</p>
   <div class="sw-tags"><span class="sw-tag">C++</span><span class="sw-tag">Floating-Point</span><span class="sw-tag">Numerical Pitfalls</span></div>
-  <div class="sw-links"><span class="sw-private"><i class="fas fa-lock"></i> Private code</span><a href="mailto:dorra.ben-khalifa@enac.fr?subject=Candy%20access%20request"><i class="fas fa-envelope"></i> Available upon request</a></div>
+  <div class="sw-links"><span class="sw-private"><i class="fas fa-lock"></i> Private code</span></div>
 </div>
 <!-- POP -->
 <div class="sw-card">
