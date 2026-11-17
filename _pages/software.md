@@ -114,7 +114,7 @@ author_profile: true
   <div class="sw-head"><h3>POPinns</h3><span class="sw-year">2024</span></div>
   <p class="sw-desc">Fixed-point program synthesis tool for neural networks.</p>
   <div class="sw-tags"><span class="sw-tag">Fixed-Point</span><span class="sw-tag">Neural Networks</span></div>
-  <div class="sw-links"><span class="sw-private"><i class="fas fa-lock"></i> Private code</span><a href="mailto:dorra.ben-khalifa@enac.fr?subject=POPinns%20access%20request"><i class="fas fa-envelope"></i> Available upon request</a></div>
+  <div class="sw-links"><span class="sw-private"><i class="fas fa-lock"></i> Private code</span></div>
 </div>
 <!-- POPiX -->
 <div class="sw-card">
